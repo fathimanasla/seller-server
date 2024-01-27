@@ -1,0 +1,75 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "earings",
+      "price": "₹ 300",
+      "url": "https://i.pinimg.com/originals/90/93/d9/9093d9d492cc421c56be47d7a7abd9b7.png",
+      "categoryName": "Jewellery"
+    },
+    {
+      "id": "2",
+      "name": "Ring",
+      "price": "₹ 456",
+      "url": "https://pngimg.com/uploads/jewelry/jewelry_PNG6805.png",
+      "categoryName": "Jewellery"
+    },
+    {
+      "id": "3",
+      "name": "shirt",
+      "price": "₹390",
+      "url": "https://pluspng.com/img-png/shirt-png-hd-dress-shirt-png-image-798.png",
+      "categoryName": "Men's Shirt"
+    },
+    {
+      "id": "4",
+      "name": "shoe",
+      "price": "₹ 456",
+      "url": "https://th.bing.com/th/id/R.80b8861685512d09b9ea4fff11aeb982?rik=otMD3cJc2vX78A&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnike-shoe-png-nike-shoes-png-image-1280.png&ehk=pGqSWQ41smNCRTmB20Zd12BwzFx7bY5iOP5L%2bXZXgQA%3d&risl=&pid=ImgRaw&r=0",
+      "categoryName": "shoe"
+    },
+    {
+      "id": "5",
+      "name": "shoe",
+      "price": "₹ 456",
+      "url": "https://th.bing.com/th/id/OIP.wSWp2iZ_3ph6ibN9F93-nAHaEl?rs=1&pid=ImgDetMain",
+      "categoryName": "shoe"
+    },
+    {
+      "id": "6",
+      "name": "ring",
+      "price": "₹ 768",
+      "url": "https://th.bing.com/th/id/R.9f31f8b100ce45d9bd2c2b366f6f6bbe?rik=BmxA6%2bOh11fiLg&riu=http%3a%2f%2fpngimg.com%2fuploads%2fjewelry%2fjewelry_PNG6835.png&ehk=B1rEwq5jrKVZC6IP2B3uBcIN1zkyJOvPyU0alGYMWz8%3d&risl=&pid=ImgRaw&r=0",
+      "categoryName": "Jewellery"
+    },
+    {
+      "id": "10",
+      "name": "eyeliner",
+      "price": "₹ 300",
+      "url": "https://th.bing.com/th/id/OIP.xSyrSZxdF_-wWbCBnGg6vwHaHa?rs=1&pid=ImgDetMain",
+      "categoryName": "Cosmetic"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "categoryName": "Jewellery",
+      "url": "https://i.pinimg.com/originals/90/93/d9/9093d9d492cc421c56be47d7a7abd9b7.png"
+    },
+    {
+      "id": "2",
+      "categoryName": "Men's Shirt",
+      "url": "https://pluspng.com/img-png/shirt-png-hd-dress-shirt-png-image-798.png"
+    },
+    {
+      "id": "3",
+      "categoryName": "shoe",
+      "url": "https://th.bing.com/th/id/R.80b8861685512d09b9ea4fff11aeb982?rik=otMD3cJc2vX78A&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnike-shoe-png-nike-shoes-png-image-1280.png&ehk=pGqSWQ41smNCRTmB20Zd12BwzFx7bY5iOP5L%2bXZXgQA%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "6",
+      "categoryName": "Cosmetic",
+      "url": "https://th.bing.com/th/id/OIP.VNbP-AuAxelV_MVdPkrZogHaEy?rs=1&pid=ImgDetMain"
+    }
+  ]
+}
